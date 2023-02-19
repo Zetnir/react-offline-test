@@ -1,5 +1,4 @@
 import axios from "axios";
-import React from "react";
 import { Data } from "../interfaces";
 
 const apiUrl = "https://api.carbonintensity.org.uk/generation";

@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import BigNumbers from "./components/BigNumbers/BigNumbers";
 import BarChart from "./components/BarChart/BarChart";
-import { Energy, GenerationMix } from "./interfaces";
+import { GenerationMix } from "./interfaces";
 import ServerDataService from "./services/ServerDataService";
 import DualWheelChart from "./components/DualWheelChart/DualWheelChart";
 import "./app.css";
