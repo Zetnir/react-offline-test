@@ -1,0 +1,11 @@
+.header {
+    text-align: center;
+    font-size: 3.5rem;
+    padding-top: 50px;
+    padding-bottom: 0px;
+    color: rgb(200, 0, 0);
+}
+
+.pre-header {
+    text-align: center;
+}
