@@ -18,11 +18,11 @@ it is now available at http://localhost:8080
 
 
 ## Tasks :
-[x] retrieve data from https://api.carbonintensity.org.uk/generation
-[x] display the data in big text components
-[x] display the data in a bar chart
-[x] display the data in a wheel chart
-[x] make the front-end / design appealing
+- [x] retrieve data from https://api.carbonintensity.org.uk/generation
+- [x] display the data in big text components
+- [x] display the data in a bar chart
+- [x] display the data in a wheel chart
+- [x] make the front-end / design appealing
 
 ## Mention
 
